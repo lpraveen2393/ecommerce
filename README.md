@@ -1,6 +1,6 @@
-# Fashion E-Commerce Website
+# FOREVER fashion E-Commerce Website
 
-Welcome to the **Fashion E-Commerce Website**! This is a modern, fully functional e-commerce platform designed for fashion enthusiasts. It features a seamless shopping experience with a Stripe payment gateway integration, and an admin panel to manage orders and products.
+Welcome to the **Forever E-Commerce Website**! This is a modern, fully functional e-commerce platform designed for fashion enthusiasts. It features a seamless shopping experience with a Stripe payment gateway integration, and an admin panel to manage orders and products.
 
 ## Live Demo
 
