@@ -12,7 +12,7 @@ const ShopContextProvider = (props) => {
 
   const currency = '$'
   const delivery_fee = 15;
-  const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3000/';
+  const backendUrl = import.meta.env.VITE_BACKEND_URL || 'https://ecommerce-backend-jet-phi.vercel.app/';
   const [search, setSearch] = useState('');
   const [showSearch, setShowSearch] = useState(false);
   const [cartItems, setCartItems] = useState({});
