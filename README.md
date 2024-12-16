@@ -39,10 +39,10 @@ Welcome to the **Fashion E-Commerce Website**! This is a modern, fully functiona
 ## Screenshots
 
 ### Frontend (Customer Site)
-![Frontend Screenshot](https://drive.google.com/drive/folders/1evZVazcZZHhHCyfReYjY4lUU_FR3usrX?usp=drive_link)
+https://drive.google.com/drive/folders/1evZVazcZZHhHCyfReYjY4lUU_FR3usrX?usp=drive_link
 
 ### Admin Panel
-![Admin Panel Screenshot](https://drive.google.com/drive/folders/1ZDIA927WaYLetCk8yr0vPAr7Dr_qaDNG?usp=drive_link)
+https://drive.google.com/drive/folders/1ZDIA927WaYLetCk8yr0vPAr7Dr_qaDNG?usp=drive_link
 
 ## License
 
